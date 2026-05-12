@@ -1,0 +1,18 @@
+{
+    "Agency_GH": {
+        "name": "GH Agency",
+        "balance": 750000,
+        "currency": "Diamond"
+    },
+    "Agency_NH": {
+        "name": "NH Agency",
+        "balance": 15000000,
+        "currency": "Diamond",
+        "rank": "Elite VIP"
+    },
+    "Agency_AlHelbawi": {
+        "name": "وكالة الشيخ الهلباوي",
+        "type": "Content Creators",
+        "access": "Full Sovereign"
+    }
+}
