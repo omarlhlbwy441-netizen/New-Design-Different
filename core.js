@@ -1,0 +1,1 @@
+console.log('NDD Live Engine Active'); function nav(p){ alert('جاري فتح ' + p); }
